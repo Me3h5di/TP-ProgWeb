@@ -14,10 +14,10 @@
     <main> 
         <div class="container">
             <div class="im-div">
-                <img class="main-img"   src="images/4396ac48f8c94c5f39b725ed7d750b2f.jpg" alt="">
+                <img class="main-img"   src="4396ac48f8c94c5f39b725ed7d750b2f.jpg" alt="">
             </div>
         <div class="inscription-div">
-        <img class="brand-logo" src="images/1715127850-insidebox 1-01.webp" alt="">
+        <img class="brand-logo" src="1715127850-insidebox_1-01.webp" alt="">
         <h2>sign up to InsideBox</h2>
         <p class="head-paragraph">Formulaire d'inscription</p>
         <form id="form" method="get" >
